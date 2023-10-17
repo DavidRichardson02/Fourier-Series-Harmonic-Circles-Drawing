@@ -13,3 +13,4 @@ Drawing an arbitrary 2D path with the fourier series. See the attached document 
 
 
 ![castle dft etch a sketch](https://github.com/David-PaulR/Fourier-Series-Harmonic-Circles-Drawing/assets/137151163/f5dc8cee-e4c2-458c-bf32-79a279476b68)[Uploading Fourier-Series-Harmonic-Circles-Epicycle-Visualization.pdf…]()
+
