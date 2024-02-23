@@ -1,5 +1,5 @@
 # Fourier-Series-Harmonic-Circles-Drawing
-Drawing an arbitrary 2D path with the fourier series. See the attached document for a detailed explanation of the program. My first real project, based on some interesting math and serves as a cool visualization of the geometric representation of the Discrete Fourier Transform. Made in c++ openframeworks. 
+Drawing an arbitrary 2D path with the fourier series. See the attached document for a detailed explanation of the program. Based on some interesting math and serves as a cool visualization of the geometric representation of the Discrete Fourier Transform. Made in c++ openframeworks. 
 
 
 
